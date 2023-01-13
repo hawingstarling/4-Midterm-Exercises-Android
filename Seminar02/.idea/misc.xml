@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/drawable/btn_background.xml" value="0.2305" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/drawable/btn_border.xml" value="0.2305" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.2305" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/drawable/rounded.xml" value="0.2305" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/layout/activity_add_note.xml" value="0.264" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/layout/activity_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/layout/flagment_calendar.xml" value="0.253125" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/layout/fragment_create_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/layout/item_notelist.xml" value="0.536" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar/app/src/main/res/menu/itemtodolist.xml" value="0.25416666666666665" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar02/app/src/main/res/drawable/rounded.xml" value="0.124" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar02/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar02/app/src/main/res/layout/fragment_create_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar02/app/src/main/res/layout/item_notelist.xml" value="0.25416666666666665" />
+        <entry key="..\:/SAVE.ANDROIDSTUDIO/Seminar02/app/src/main/res/menu/itemtodolist.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
